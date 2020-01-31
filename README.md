@@ -1,7 +1,7 @@
 # springboard-takehomeproject
 
 ### Data Analysis Interview Challenge
-#### See detail in the [notebook](ultimate.ipynb)
+#### See detail in this [notebook](ultimate.ipynb) and this [notebook](relax.ipynb)
  
-#### [decision tree](https://github.com/wweschen/springboard-takehomeproject/blob/master/decision_tree.gv.pdf)
+#### A polt of a [decision tree](https://github.com/wweschen/springboard-takehomeproject/blob/master/decision_tree.gv.pdf)
   
